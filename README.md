@@ -13,3 +13,7 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+
+   ## Modificações que foram feitas no commit:
+1. Adicionei um arquivo na pasta 'pages' chamado 'menu.jsx' coloquei um código de header nele.
+2. Importei e adicionei esse componente ao App.js.
